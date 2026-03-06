@@ -1,4 +1,6 @@
-I am using this repository as a way for me to keep a public backup of my work on my garry's mod map **gm_dream_areas**. 
+gm_dream_areas is a Garry's mod map I have been working on over the last few years. I am just now uploading what I have done so far to github to archive my progress on the map up to this point.
+
+I will update this each time I make a change to the map so you can see me work on this map in semi-real time :)
 
 This has everything you need to compile and play the map yourself. As of right now, this map is <ins>**UNFINISHED**</ins>.
 
