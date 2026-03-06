@@ -8,7 +8,7 @@ all custom assets (texturs, brushwork, audio ect) are made by me and can be foun
 
 ## Things included in this repository
 
-- An archive or old VMF files
+- An archive of old VMF files
 - An up-to-date version of the map VMF
 - All files used to make textures, models and sounds
 
