@@ -19,4 +19,4 @@ all custom assets (texturs, brushwork, audio ect) are made by me and can be foun
 
 ## Were you can find me:
 
-You can find me on bluesky [here](https://bsky.app/profile/happylemonlime.bsky.social, and my steam account [here](https://steamcommunity.com/id/HappyLemonLime).
+You can find me on bluesky [here](https://bsky.app/profile/happylemonlime.bsky.social), and my steam account [here](https://steamcommunity.com/id/HappyLemonLime).
