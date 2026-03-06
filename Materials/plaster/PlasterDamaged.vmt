@@ -1,0 +1,8 @@
+"LightmappedGeneric"
+{
+	$basetexture plaster/plasterdamaged
+	$surfaceprop plaster
+	$bumpmap plaster/plasterdamaged_norm
+	$envmap env_cubemap
+	$envmaptint 0.01
+}

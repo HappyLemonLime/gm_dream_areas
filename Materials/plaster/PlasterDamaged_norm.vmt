@@ -1,0 +1,5 @@
+LightmappedGeneric
+{
+    "$basetexture" "plaster/plasterdamaged"
+    "$bumpmap" "plaster/plasterdamaged_norm"
+}

@@ -1,0 +1,7 @@
+WindowImposter
+{
+  $envmap      "envmaps/sky_nightstarsclear"
+  $nodecal      1
+  $surfaceprop  DefaultSilent
+  %tooltexture  "tools/toolsskybox"
+}

@@ -1,0 +1,8 @@
+"LightmappedGeneric"
+{
+	$basetexture wood/woodplankfloor
+	$surfaceprop wood
+	$bumpmap wood/woodplankfloor_norm
+	$envmap env_cubemap
+	$envmaptint 0.3
+}
