@@ -203905,3 +203905,144 @@ Total triangle count: 10399
 Writing c:\users\lemon\desktop\gm_dream_areas\map\gm_dream_areas.bsp
 12 seconds elapsed
 
+
+
+
+materialPath: Z:\home\lemon\.steam\steam\steamapps\common\GarrysMod\garrysmod\materials
+Loading c:\users\lemon\desktop\gm_dream_areas\map\gm_dream_areas.vmf
+Can't find surfaceprop DefaultSilent for material ENVMAPS/SKY_NIGHTSTARSCLEAR, using default
+Patching WVT material: maps/gm_dream_areas/nature/blendgrassgravel01_wvt_patch
+Patching WVT material: maps/gm_dream_areas/concrete/blendconcretegravel001a_wvt_patch
+fixing up env_cubemap materials on brush sides...
+Material glass/glasswindowbreak070b is depending on itself through materialvar $crackmaterial! Ignoring...
+Material glass/glasswindowbreak070b is depending on itself through materialvar $crackmaterial! Ignoring...
+Material glass/glasswindowbreak070b is depending on itself through materialvar $crackmaterial! Ignoring...
+ProcessBlock_Thread: 0...1...2...3...4...5...6...7...8...9...10 (0)
+ProcessBlock_Thread: 0...1...2...3...4...5...6...7...8...9...10 (0)
+Processing areas...done (0)
+Building Faces...done (1)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 104 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing c:\users\lemon\desktop\gm_dream_areas\map\gm_dream_areas.prt...
+Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_09*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_09*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Found a displacement edge abutting multiple other edges.
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (405019 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Water found with no water_lod_control entity, creating a default one.
+Compacting texture/material tables...
+Reduced 3122 texinfos to 1367
+Reduced 260 texdatas to 214 (11626 bytes to 9940)
+Writing c:\users\lemon\desktop\gm_dream_areas\map\gm_dream_areas.bsp
+3 seconds elapsed
+
+
+
+6 threads
+reading c:\users\lemon\desktop\gm_dream_areas\map\gm_dream_areas.bsp
+reading c:\users\lemon\desktop\gm_dream_areas\map\gm_dream_areas.prt
+ 786 portalclusters
+1811 numportals
+BasePortalVis:       0...1...2...3...4...5...6...7...8...9...10 (0)
+Optimized: 25500 visible clusters (12.83%)
+Total clusters visible: 198798
+Average clusters visible: 252
+Building PAS...
+Average clusters audible: 470
+visdatasize:117755  compressed from 163488
+writing c:\users\lemon\desktop\gm_dream_areas\map\gm_dream_areas.bsp
+0 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[51 texlights parsed from 'lights.rad']
+Loading c:\users\lemon\desktop\gm_dream_areas\map\gm_dream_areas.bsp
+BuildFacelights:     0...1...2...3...4...5...6...7...8...9...10 (2)
+BuildVisLeafs:       0...1...2...3...4...5...6...7...8...9...10 (3)
+transfers 3204088, max 590
+GatherLight:         0...1...2...3...4...5...6...7...8...9...10 (0)
+GatherLight:         0...1...2...3...4...5...6...7...8...9...10 (0)
+Build Patch/Sample Hash Table(s).....Done<0.0125 sec>
+FinalLightFace:      0...1...2...3...4...5...6...7...8...9...10 (3)
+FinalLightFace Done
+Computing detail prop lighting : 0...1...2...3...4...5...6...7...8...9...10
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+ThreadComputeLeafAmbient: 0...1...2...3...4...5...6...7...8...9...10 (7)
+Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                  68/4096         3264/196608   ( 1.7%) 
+brushes               1123/65535       13476/786420   ( 1.7%) 
+brushsides            7161/655350      57288/5242800  ( 1.1%) 
+planes                2898/65536       57960/1310720  ( 4.4%) 
+vertexes              7886/65536       94632/786432   (12.0%) 
+nodes                 2435/65536       77920/2097152  ( 3.7%) 
+texinfos              1367/16384       98424/1179648  ( 8.3%) 
+texdata                214/8192         6848/262144   ( 2.6%) 
+dispinfos              106/0           18656/0        ( 0.0%) 
+disp_verts            8586/0          171720/0        ( 0.0%) 
+disp_tris            13568/0           27136/0        ( 0.0%) 
+disp_multiblend          0/0               0/0        ( 0.0%) 
+disp_lmsamples      135468/0          135468/0        ( 0.0%) 
+faces                 3868/65536      216608/3670016  ( 5.9%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces             2482/65536      138992/3670016  ( 3.8%) 
+leaves                2504/65536       80128/2097152  ( 3.8%) 
+leaffaces             4321/65536        8642/131072   ( 6.6%) 
+leafbrushes           2509/65536        5018/131072   ( 3.8%) 
+areas                   20/1024          160/8192     ( 2.0%) 
+surfedges            28197/512000     112788/2048000  ( 5.5%) 
+edges                17941/256000      71764/1024000  ( 7.0%) 
+LDR worldlights        307/8192        27016/720896   ( 3.7%) 
+HDR worldlights          0/8192            0/720896   ( 0.0%) 
+leafwaterdata            3/32768          36/393216   ( 0.0%) 
+waterstrips            377/32768        3770/327680   ( 1.2%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices          5964/65536       11928/131072   ( 9.1%) 
+cubemapsamples          64/1024         1024/16384    ( 6.2%) 
+overlays                11/8192         3872/2883584  ( 0.1%) 
+LDR lightdata         [variable]     2920284/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]      117755/16777216 ( 0.7%) 
+entdata               [variable]      374630/4194304  ( 8.9%) 
+LDR ambient table     2504/65536       10016/262144   ( 3.8%) 
+HDR ambient table     2504/65536       10016/262144   ( 3.8%) 
+LDR leaf ambient      7557/65536      211596/1835008  (11.5%) 
+HDR leaf ambient      2504/65536       70112/1835008  ( 3.8%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]       69684/0        ( 0.0%) 
+dtl prp lght          [variable]           4/0        ( 0.0%) 
+HDR dtl prp lght      [variable]           4/0        ( 0.0%) 
+static props          [variable]       18742/0        ( 0.0%) 
+static prop count      175/16384           0/0        ( 1.1%) 
+pakfile               [variable]     5949758/0        ( 0.0%) 
+physics               [variable]      405019/4194304  ( 9.7%) 
+physics terrain       [variable]       28748/1048576  ( 2.7%) 
+
+Level flags = 0
+
+Total triangle count: 10468
+Writing c:\users\lemon\desktop\gm_dream_areas\map\gm_dream_areas.bsp
+16 seconds elapsed
+
