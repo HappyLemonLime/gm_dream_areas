@@ -204046,3 +204046,619 @@ Total triangle count: 10468
 Writing c:\users\lemon\desktop\gm_dream_areas\map\gm_dream_areas.bsp
 16 seconds elapsed
 
+
+
+
+materialPath: Z:\home\lemon\.steam\steam\steamapps\common\GarrysMod\garrysmod\materials
+Loading z:\home\lemon\desktop\gm_dream_areas\map\gm_dream_areas.vmf
+Can't find surfaceprop DefaultSilent for material ENVMAPS/SKY_NIGHTSTARSCLEAR, using default
+Patching WVT material: maps/gm_dream_areas/nature/blendgrassgravel01_wvt_patch
+Patching WVT material: maps/gm_dream_areas/concrete/blendconcretegravel001a_wvt_patch
+fixing up env_cubemap materials on brush sides...
+Material glass/glasswindowbreak070b is depending on itself through materialvar $crackmaterial! Ignoring...
+Material glass/glasswindowbreak070b is depending on itself through materialvar $crackmaterial! Ignoring...
+Material glass/glasswindowbreak070b is depending on itself through materialvar $crackmaterial! Ignoring...
+ProcessBlock_Thread: 0...1...2...3...4...5...6...7...8...9...10 (0)
+**** leaked ****
+Entity info_particle_system (-301.00 -1143.00 -180.90) leaked!
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (4608.0 -5120.0 -808.0)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (4436.0 -4096.0 -808.0)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (4780.0 -4096.0 -808.0)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (4952.0 -4096.0 -808.0)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (5120.0 -4608.0 -808.0)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (3584.0 -4096.0 -808.0)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (3584.0 -5120.0 -808.0)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (2560.0 -5120.0 -808.0)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+*** Suppressing further FindPortalSide errors.... ***
+Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 104 detail faces...done (1)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_09*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_09*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Found a displacement edge abutting multiple other edges.
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (417771 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Water found with no water_lod_control entity, creating a default one.
+Compacting texture/material tables...
+Reduced 3211 texinfos to 1413
+Reduced 261 texdatas to 213 (11686 bytes to 9878)
+Writing z:\home\lemon\desktop\gm_dream_areas\map\gm_dream_areas.bsp
+3 seconds elapsed
+
+
+
+6 threads
+reading z:\home\lemon\desktop\gm_dream_areas\map\gm_dream_areas.bsp
+reading z:\home\lemon\desktop\gm_dream_areas\map\gm_dream_areas.prt
+LoadPortals: couldn't read z:\home\lemon\desktop\gm_dream_areas\map\gm_dream_areas.prt
+
+
+
+materialPath: Z:\home\lemon\.steam\steam\steamapps\common\GarrysMod\garrysmod\materials
+Loading z:\home\lemon\desktop\gm_dream_areas\map\gm_dream_areas.vmf
+Can't find surfaceprop DefaultSilent for material ENVMAPS/SKY_NIGHTSTARSCLEAR, using default
+Patching WVT material: maps/gm_dream_areas/nature/blendgrassgravel01_wvt_patch
+Patching WVT material: maps/gm_dream_areas/concrete/blendconcretegravel001a_wvt_patch
+fixing up env_cubemap materials on brush sides...
+Material glass/glasswindowbreak070b is depending on itself through materialvar $crackmaterial! Ignoring...
+Material glass/glasswindowbreak070b is depending on itself through materialvar $crackmaterial! Ignoring...
+Material glass/glasswindowbreak070b is depending on itself through materialvar $crackmaterial! Ignoring...
+ProcessBlock_Thread: 0...1...2...3...4...5...6...7...8...9...10 (0)
+**** leaked ****
+Entity info_particle_system (-301.00 -1143.00 -180.90) leaked!
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (4608.0 -5120.0 -808.0)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (4436.0 -4096.0 -808.0)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (4780.0 -4096.0 -808.0)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (4952.0 -4096.0 -808.0)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (5120.0 -4608.0 -808.0)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (3584.0 -4096.0 -808.0)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (3584.0 -5120.0 -808.0)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (2560.0 -5120.0 -808.0)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+*** Suppressing further FindPortalSide errors.... ***
+Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 104 detail faces...done (0)
+Merging details...done (1)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_09*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_09*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Found a displacement edge abutting multiple other edges.
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (418067 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Water found with no water_lod_control entity, creating a default one.
+Compacting texture/material tables...
+Reduced 3213 texinfos to 1413
+Reduced 261 texdatas to 213 (11686 bytes to 9878)
+Writing z:\home\lemon\desktop\gm_dream_areas\map\gm_dream_areas.bsp
+3 seconds elapsed
+
+
+
+6 threads
+reading z:\home\lemon\desktop\gm_dream_areas\map\gm_dream_areas.bsp
+reading z:\home\lemon\desktop\gm_dream_areas\map\gm_dream_areas.prt
+LoadPortals: couldn't read z:\home\lemon\desktop\gm_dream_areas\map\gm_dream_areas.prt
+
+
+
+materialPath: Z:\home\lemon\.steam\steam\steamapps\common\GarrysMod\garrysmod\materials
+Loading z:\home\lemon\desktop\gm_dream_areas\map\gm_dream_areas.vmf
+Can't find surfaceprop DefaultSilent for material ENVMAPS/SKY_NIGHTSTARSCLEAR, using default
+Patching WVT material: maps/gm_dream_areas/nature/blendgrassgravel01_wvt_patch
+Patching WVT material: maps/gm_dream_areas/concrete/blendconcretegravel001a_wvt_patch
+fixing up env_cubemap materials on brush sides...
+Material glass/glasswindowbreak070b is depending on itself through materialvar $crackmaterial! Ignoring...
+Material glass/glasswindowbreak070b is depending on itself through materialvar $crackmaterial! Ignoring...
+Material glass/glasswindowbreak070b is depending on itself through materialvar $crackmaterial! Ignoring...
+ProcessBlock_Thread: 0...1...2...3...4...5...6...7...8...9...10 (0)
+**** leaked ****
+Entity ambient_generic (1774.00 -2533.00 -179.00) leaked!
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (4608.0 -5120.0 -808.0)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (4436.0 -4096.0 -808.0)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (4780.0 -4096.0 -808.0)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (4952.0 -4096.0 -808.0)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (5120.0 -4608.0 -808.0)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (3584.0 -4096.0 -808.0)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (3584.0 -5120.0 -808.0)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (2560.0 -5120.0 -808.0)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+*** Suppressing further FindPortalSide errors.... ***
+Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 104 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (1)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_09*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_09*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Found a displacement edge abutting multiple other edges.
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (417675 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Water found with no water_lod_control entity, creating a default one.
+Compacting texture/material tables...
+Reduced 3210 texinfos to 1413
+Reduced 261 texdatas to 213 (11686 bytes to 9878)
+Writing z:\home\lemon\desktop\gm_dream_areas\map\gm_dream_areas.bsp
+3 seconds elapsed
+
+
+
+6 threads
+reading z:\home\lemon\desktop\gm_dream_areas\map\gm_dream_areas.bsp
+reading z:\home\lemon\desktop\gm_dream_areas\map\gm_dream_areas.prt
+LoadPortals: couldn't read z:\home\lemon\desktop\gm_dream_areas\map\gm_dream_areas.prt
+
+
+
+materialPath: Z:\home\lemon\.steam\steam\steamapps\common\GarrysMod\garrysmod\materials
+Loading z:\home\lemon\desktop\gm_dream_areas\map\gm_dream_areas.vmf
+Can't find surfaceprop DefaultSilent for material ENVMAPS/SKY_NIGHTSTARSCLEAR, using default
+Patching WVT material: maps/gm_dream_areas/nature/blendgrassgravel01_wvt_patch
+Patching WVT material: maps/gm_dream_areas/concrete/blendconcretegravel001a_wvt_patch
+fixing up env_cubemap materials on brush sides...
+Material glass/glasswindowbreak070b is depending on itself through materialvar $crackmaterial! Ignoring...
+Material glass/glasswindowbreak070b is depending on itself through materialvar $crackmaterial! Ignoring...
+Material glass/glasswindowbreak070b is depending on itself through materialvar $crackmaterial! Ignoring...
+ProcessBlock_Thread: 0...1...2...3...4...5...6...7...8...9...10 (0)
+ProcessBlock_Thread: 0...1...2...3...4...5...6...7...8...9...10 (0)
+Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 104 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing z:\home\lemon\desktop\gm_dream_areas\map\gm_dream_areas.prt...
+Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_09*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_day01_09*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Found a displacement edge abutting multiple other edges.
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (417675 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Water found with no water_lod_control entity, creating a default one.
+Compacting texture/material tables...
+Reduced 3210 texinfos to 1399
+Reduced 261 texdatas to 213 (11686 bytes to 9878)
+Writing z:\home\lemon\desktop\gm_dream_areas\map\gm_dream_areas.bsp
+3 seconds elapsed
+
+
+
+6 threads
+reading z:\home\lemon\desktop\gm_dream_areas\map\gm_dream_areas.bsp
+reading z:\home\lemon\desktop\gm_dream_areas\map\gm_dream_areas.prt
+ 807 portalclusters
+1813 numportals
+BasePortalVis:       0...1...2...3...4...5...6...7...8...9...10 (0)
+PortalFlow:          0...1...2...3...4...5...6...7...8...9...10 (0)
+Optimized: 463 visible clusters (0.59%)
+Total clusters visible: 78744
+Average clusters visible: 97
+Building PAS...
+Average clusters audible: 312
+visdatasize:91343  compressed from 167856
+writing z:\home\lemon\desktop\gm_dream_areas\map\gm_dream_areas.bsp
+0 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[51 texlights parsed from 'lights.rad']
+Loading z:\home\lemon\desktop\gm_dream_areas\map\gm_dream_areas.bsp
+BuildFacelights:     0...1...2...3...4...5...6...7...8...9...10 (21)
+BuildVisLeafs:       0...1...2...3...4...5...6...7...8...9...10 (3)
+transfers 4037979, max 597
+GatherLight:         0...1...2...3...4...5...6...7...8...9...10 (0)
+GatherLight:         0...1...2...3...4...5...6...7...8...9...10 (0)
+GatherLight:         0...1...2...3...4...5...6...7...8...9...10 (0)
+GatherLight:         0...1...2...3...4...5...6...7...8...9...10 (0)
+GatherLight:         0...1...2...3...4...5...6...7...8...9...10 (0)
+GatherLight:         0...1...2...3...4...5...6...7...8...9...10 (0)
+GatherLight:         0...1...2...3...4...5...6...7...8...9...10 (0)
+GatherLight:         0...1...2...3...4...5...6...7...8...9...10 (0)
+GatherLight:         0...1...2...3...4...5...6...7...8...9...10 (0)
+GatherLight:         0...1...2...3...4...5...6...7...8...9...10 (0)
+GatherLight:         0...1...2...3...4...5...6...7...8...9...10 (0)
+GatherLight:         0...1...2...3...4...5...6...7...8...9...10 (1)
+GatherLight:         0...1...2...3...4...5...6...7...8...9...10 (0)
+GatherLight:         0...1...2...3...4...5...6...7...8...9...10 (0)
+Build Patch/Sample Hash Table(s).....Done<0.0152 sec>
+FinalLightFace:      0...1...2...3...4...5...6...7...8...9...10 (3)
+FinalLightFace Done
+Computing detail prop lighting : 0...1...2...3...4...5...6...7...8...9...10
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+ThreadComputeLeafAmbient: 0...1...2...3...4...5...6...7...8...9...10 (4)
+Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                  68/4096         3264/196608   ( 1.7%) 
+brushes               1157/65535       13884/786420   ( 1.8%) 
+brushsides            7391/655350      59128/5242800  ( 1.1%) 
+planes                3020/65536       60400/1310720  ( 4.6%) 
+vertexes              8237/65536       98844/786432   (12.6%) 
+nodes                 2523/65536       80736/2097152  ( 3.8%) 
+texinfos              1399/16384      100728/1179648  ( 8.5%) 
+texdata                213/8192         6816/262144   ( 2.6%) 
+dispinfos              106/0           18656/0        ( 0.0%) 
+disp_verts            8586/0          171720/0        ( 0.0%) 
+disp_tris            13568/0           27136/0        ( 0.0%) 
+disp_multiblend          0/0               0/0        ( 0.0%) 
+disp_lmsamples      135468/0          135468/0        ( 0.0%) 
+faces                 4045/65536      226520/3670016  ( 6.2%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces             2544/65536      142464/3670016  ( 3.9%) 
+leaves                2592/65536       82944/2097152  ( 4.0%) 
+leaffaces             4515/65536        9030/131072   ( 6.9%) 
+leafbrushes           2660/65536        5320/131072   ( 4.1%) 
+areas                   20/1024          160/8192     ( 2.0%) 
+surfedges            29302/512000     117208/2048000  ( 5.7%) 
+edges                18557/256000      74228/1024000  ( 7.2%) 
+LDR worldlights        307/8192        27016/720896   ( 3.7%) 
+HDR worldlights          0/8192            0/720896   ( 0.0%) 
+leafwaterdata            3/32768          36/393216   ( 0.0%) 
+waterstrips            387/32768        3870/327680   ( 1.2%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices          6102/65536       12204/131072   ( 9.3%) 
+cubemapsamples          64/1024         1024/16384    ( 6.2%) 
+overlays                11/8192         3872/2883584  ( 0.1%) 
+LDR lightdata         [variable]     3326896/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]       91343/16777216 ( 0.5%) 
+entdata               [variable]      374630/4194304  ( 8.9%) 
+LDR ambient table     2592/65536       10368/262144   ( 4.0%) 
+HDR ambient table     2592/65536       10368/262144   ( 4.0%) 
+LDR leaf ambient      7593/65536      212604/1835008  (11.6%) 
+HDR leaf ambient      2592/65536       72576/1835008  ( 4.0%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]       69684/0        ( 0.0%) 
+dtl prp lght          [variable]           4/0        ( 0.0%) 
+HDR dtl prp lght      [variable]           4/0        ( 0.0%) 
+static props          [variable]       18746/0        ( 0.0%) 
+static prop count      175/16384           0/0        ( 1.1%) 
+pakfile               [variable]     5950121/0        ( 0.0%) 
+physics               [variable]      417675/4194304  (10.0%) 
+physics terrain       [variable]       28748/1048576  ( 2.7%) 
+
+Level flags = 0
+
+Total triangle count: 10968
+Writing z:\home\lemon\desktop\gm_dream_areas\map\gm_dream_areas.bsp
+34 seconds elapsed
+
+
+
+
+[Reading texlights from 'lights.rad']
+[51 texlights parsed from 'lights.rad']
+Loading z:\home\lemon\desktop\gm_dream_areas\map\gm_dream_areas.bsp
+BuildFacelights:     0...1...2...3...4...5...6...7...8...9...10 (23)
+BuildVisLeafs:       0...1...2...3...4...5...6...7...8...9...10 (2)
+transfers 4037979, max 597
+GatherLight:         0...1...2...3...4...5...6...7...8...9...10 (0)
+GatherLight:         0...1...2...3...4...5...6...7...8...9...10 (0)
+GatherLight:         0...1...2...3...4...5...6...7...8...9...10 (1)
+GatherLight:         0...1...2...3...4...5...6...7...8...9...10 (0)
+GatherLight:         0...1...2...3...4...5...6...7...8...9...10 (0)
+GatherLight:         0...1...2...3...4...5...6...7...8...9...10 (0)
+GatherLight:         0...1...2...3...4...5...6...7...8...9...10 (0)
+GatherLight:         0...1...2...3...4...5...6...7...8...9...10 (0)
+GatherLight:         0...1...2...3...4...5...6...7...8...9...10 (0)
+GatherLight:         0...1...2...3...4...5...6...7...8...9...10 (0)
+GatherLight:         0...1...2...3...4...5...6...7...8...9...10 (0)
+GatherLight:         0...1...2...3...4...5...6...7...8...9...10 (0)
+GatherLight:         0...1...2...3...4...5...6...7...8...9...10 (0)
+GatherLight:         0...1...2...3...4...5...6...7...8...9...10 (0)
+Build Patch/Sample Hash Table(s).....Done<0.0146 sec>
+FinalLightFace:      0...1...2...3...4...5...6...7...8...9...10 (3)
+FinalLightFace Done
+Computing detail prop lighting : 0...1...2...3...4...5...6...7...8...9...10
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+ThreadComputeLeafAmbient: 0...1...2...3...4...5...6...7...8...9...10 (5)
+Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                  68/4096         3264/196608   ( 1.7%) 
+brushes               1157/65535       13884/786420   ( 1.8%) 
+brushsides            7391/655350      59128/5242800  ( 1.1%) 
+planes                3020/65536       60400/1310720  ( 4.6%) 
+vertexes              8237/65536       98844/786432   (12.6%) 
+nodes                 2523/65536       80736/2097152  ( 3.8%) 
+texinfos              1399/16384      100728/1179648  ( 8.5%) 
+texdata                213/8192         6816/262144   ( 2.6%) 
+dispinfos              106/0           18656/0        ( 0.0%) 
+disp_verts            8586/0          171720/0        ( 0.0%) 
+disp_tris            13568/0           27136/0        ( 0.0%) 
+disp_multiblend          0/0               0/0        ( 0.0%) 
+disp_lmsamples      135468/0          135468/0        ( 0.0%) 
+faces                 4045/65536      226520/3670016  ( 6.2%) 
+hdr faces             4045/65536      226520/3670016  ( 6.2%) 
+origfaces             2544/65536      142464/3670016  ( 3.9%) 
+leaves                2592/65536       82944/2097152  ( 4.0%) 
+leaffaces             4515/65536        9030/131072   ( 6.9%) 
+leafbrushes           2660/65536        5320/131072   ( 4.1%) 
+areas                   20/1024          160/8192     ( 2.0%) 
+surfedges            29302/512000     117208/2048000  ( 5.7%) 
+edges                18557/256000      74228/1024000  ( 7.2%) 
+LDR worldlights        307/8192        27016/720896   ( 3.7%) 
+HDR worldlights        307/8192        27016/720896   ( 3.7%) 
+leafwaterdata            3/32768          36/393216   ( 0.0%) 
+waterstrips            387/32768        3870/327680   ( 1.2%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices          6102/65536       12204/131072   ( 9.3%) 
+cubemapsamples          64/1024         1024/16384    ( 6.2%) 
+overlays                11/8192         3872/2883584  ( 0.1%) 
+LDR lightdata         [variable]     3326896/0        ( 0.0%) 
+HDR lightdata         [variable]     3326896/0        ( 0.0%) 
+visdata               [variable]       91343/16777216 ( 0.5%) 
+entdata               [variable]      374630/4194304  ( 8.9%) 
+LDR ambient table     2592/65536       10368/262144   ( 4.0%) 
+HDR ambient table     2592/65536       10368/262144   ( 4.0%) 
+LDR leaf ambient      7593/65536      212604/1835008  (11.6%) 
+HDR leaf ambient      7481/65536      209468/1835008  (11.4%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]       69684/0        ( 0.0%) 
+dtl prp lght          [variable]           4/0        ( 0.0%) 
+HDR dtl prp lght      [variable]           4/0        ( 0.0%) 
+static props          [variable]       18746/0        ( 0.0%) 
+static prop count      175/16384           0/0        ( 1.1%) 
+pakfile               [variable]     5950121/0        ( 0.0%) 
+physics               [variable]      417675/4194304  (10.0%) 
+physics terrain       [variable]       28748/1048576  ( 2.7%) 
+
+Level flags = 0
+
+Total triangle count: 10968
+Writing z:\home\lemon\desktop\gm_dream_areas\map\gm_dream_areas.bsp
+36 seconds elapsed
+
