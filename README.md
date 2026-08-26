@@ -4,7 +4,7 @@ I will update this each time I make a change to the map so you can see me work o
 
 This has everything you need to compile and play the map yourself. As of right now, this map is <ins>**UNFINISHED**</ins>.
 
-all custom assets (texturs, brushwork, audio ect) are made by me and can be found in the "Materials" folder. 
+all custom assets (textures, models, audio ect) are made by me and can be found in the "Materials" folder. 
 
 ## Things included in this repository
 
